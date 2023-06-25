@@ -1,10 +1,8 @@
-
-
 <div align="center">
 
-# Crack Sublime Text 4
-⚠️***This repository is made for educational purposes only*** ⚠️
-## Modifying Guide
+# Sublime Text 4
+⚠️***This repo is made solely for educational purposes*** ⚠️
+## Guide
 
 </div>
 
@@ -39,14 +37,3 @@ CB6CCBA5 7DE6177B C02C2826 8C9A21B0
 048CC1D0 9748ED54 CAC9D585 90CAD815
 ------ END LICENSE ------
 ```
-
-<div align="center">
-
-## Download Pre-Cracked Version
-
-</div>
-
-To download Pre-Cracked version **with** the directories, please click [here](https://github.com/CyberTitus/Crack-Sublime/raw/main/sublm.zip) <br>
-To download Pre-Cracked version **without** the directories, please click [here](https://github.com/CyberTitus/Crack-Sublime/raw/main/sublime_text.exe)
-
-<sub>To use the Pre-Modded version with directories, you will need to delete `C:\Program Files\Sublime Text` and extract the zip file there. Also pre-cracked version without the directories may not work in all versions of Sublime Text.</sub>

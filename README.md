@@ -24,7 +24,7 @@
 
 ```
 ----- BEGIN LICENSE -----
-CyberTitus
+Premium User 200
 Unlimited User License
 EA7E-81044230
 0C0CD4A8 CAA317D9 CCABD1AC 434C984C

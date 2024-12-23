@@ -3,7 +3,7 @@
 # Sublime Text 4
 ⚠️***This repo is made solely for educational purposes*** ⚠️
 
-![https://img.shields.io/badge/last_tested_on-build_4180-blue](https://img.shields.io/badge/last_tested_on-build_4180-blue)
+![https://img.shields.io/badge/last_tested_on-build_4180-blue](https://img.shields.io/badge/last_tested_on-build_4189-blue)
 
 </div>
 
